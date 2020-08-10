@@ -4,12 +4,12 @@ O projeto utiliza a api publica https://swapi.dev/  sendo assim para total funci
 
 Api Rest que permite disponibiliza as seguintes funcionalidades:
 
--Adicionar um planeta
--Listar planetas do banco de dados
--Listar planetas da API do Star Wars
--Buscar por nome no banco de dados
--Buscar por ID no banco de dados
--Remover planeta
+- Adicionar um planeta
+- Listar planetas do banco de dados
+- Listar planetas da API do Star Wars
+- Buscar por nome no banco de dados
+- Buscar por ID no banco de dados
+- Remover planeta
 
 
 ## :hammer: Tecnologias
