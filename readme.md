@@ -33,13 +33,13 @@ Para rodar o banco executar
 É uma aplicação Spring Boot, sendo assim basta baixar esse projeto e rodar ele na ide de sua preferencia,
 ou rodar na pasta do projeto onde se encontra o arquivo pom.xml
 
-Na pasta target execute:
-
-java -jar star-wars-api.jar
-
 ```sh
     mvn clean install
 ```
+
+Na pasta target execute:
+
+java -jar star-wars-api.jar
 
 Api rodando no seguinte endereço 
 
